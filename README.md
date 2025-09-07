@@ -11,8 +11,10 @@ I will guide you through our little game, the choices and difficulties we encoun
 
 Our team was composed of 7 people:
 
-[Burgisser Dylan]() Game Developper.
-[Knapecz Adam]() Game Developper.
-[Raileanu Ioana]() Game Developper.
-[]()
-
+[Burgisser Dylan](https://dijiofficial.github.io/MyPortfolio/index.html) Game Developper.
+[Knapecz Adam](https://github.com/knapeczadam) Game Developper.
+[Raileanu Ioana](https://juddy2403.github.io) Game Developper.
+[Borbála Andó](https://www.artstation.com/abori03) Artists.
+[Raluca Cocoș](https://www.artstation.com/ralucacocos) VFX.
+[Vahit Saygin](https://www.linkedin.com/in/vahit-saygin-a84a80295) IGP.
+[Igor Szuniewicz](https://igorszuniewicz.com) Sound Design.
